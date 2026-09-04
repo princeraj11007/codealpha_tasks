@@ -1,0 +1,9 @@
+# Dependencies for Iris Flower Classification Project (CodeAlpha Internship Task 1)
+# Primary Kaggle Dataset: https://www.kaggle.com/datasets/saurabh00007/iriscsv
+kagglehub>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0
